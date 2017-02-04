@@ -5,9 +5,9 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "com.android.dialer"
+        applicationId "github.android.dialer"
         minSdkVersion 21
-        targetSdkVersion 24
+        targetSdkVersion 22
         versionCode 71
         versionName "7.1"
     }
